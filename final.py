@@ -8,3 +8,34 @@ It will also include the percentage of grades with an above average score.
 In order to begin the program we will have a main function that will start the program. 
 
 """
+
+
+"""
+
+def calculate_percent_above_average():
+    count= 0 
+    for grade in grades:
+        grade > average:
+            count +=1
+    count / grades
+
+def main():
+    file = open(final.txt)
+    grades = []
+    for line in file:
+        grades
+    average = 0 
+    for grades in grades:
+        average += grades
+    average /= grades
+    print (average grades)
+    print (percentage of grades above average)
+    file.close
+
+main()
+
+
+
+"""
+
+
